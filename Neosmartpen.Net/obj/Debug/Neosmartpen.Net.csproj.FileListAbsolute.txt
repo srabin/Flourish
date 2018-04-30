@@ -1,0 +1,17 @@
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\bin\Debug\Neosmartpen.Net.dll
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\bin\Debug\Neosmartpen.Net.pdb
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\bin\Debug\Neosmartpen.Net.pri
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\Neosmartpen.Net.csproj.CoreCompileInputs.cache
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\Neosmartpen.Net.dll
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\Neosmartpen.Net.pdb
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\priconfig.xml
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\priconfig.xml.intermediate
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\layout.resfiles
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\layout.resfiles.intermediate
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\resources.resfiles
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\resources.resfiles.intermediate
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\pri.resfiles
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\pri.resfiles.intermediate
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\qualifiers.txt
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mortis\Documents\UWPSDK-master\Neosmartpen.Net\obj\Debug\MultipleQualifiersPerDimensionFound.txt
