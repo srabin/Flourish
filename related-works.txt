@@ -1,20 +1,16 @@
-https://pdfs.semanticscholar.org/5617/972667ff794da79a4cbb6b985e85f8487ddd.pdf
-	MusicXML: An Internet-Friendly Format for Sheet Music
-https://patentimages.storage.googleapis.com/11/42/b8/44357361053855/US20080196575A1.pdf
-	Process for creating and viewing digital sheet music on a media device--Patent
-http://uncommonculture.org/ojs/index.php/fm/article/view/756/665
-	Digital workflow management: The Lester S. Levy digitized collection of sheet music
 http://www.dlib.org/dlib/february01/choudhury/02choudhury.html
 	Strike Up the Score: Deriving Searchable and Playable Digital Formats from Sheet Music; Smart Objects and Open Archives; Building the Archives of the Future: Advanced in Preserving Electronic Records at the National Archives and Records Administration
 https://pdfs.semanticscholar.org/115c/a5ebda767d664ce5d66fdfc9335bf13731ca.pdf
 	Optical Music Recognition System within a Large-Scale Digitization Project -- VERY RELATED
 https://www.audiolabs-erlangen.de/content/05-fau/professor/00-mueller/03-publications/2007_KurthMuellerFremereyClausen_AutomatedSynchronization_ISMIR.pdf
 	Automated Synchronization of Scanned Sheet Music with Audio Recordings
-https://dl.acm.org/citation.cfm?id=226934
-	Towards the Digital Music Library: Tune Retrieval from Acoustic Input
 https://books.google.com/books?hl=en&lr=&id=OHp3sRnZD-oC&oi=fnd&pg=PA413&dq=sheet+music+automatic+mapping&ots=oFLPqFmv73&sig=JIGvuQKC8bHp2XB9hkWpt4FETWo#v=onepage&q=sheet%20music%20automatic%20mapping&f=false
 	Automatic Mapping of Scanned Sheet Music to Audio Recorings
 http://drops.dagstuhl.de/opus/volltexte/2012/3463/
 	Linking Sheet Music and Audio - Challenges and New Approaches
 https://link.springer.com/article/10.1007/s13735-012-0004-6
 	Optical music recognition: state-of-the-art and open issues
+
+
+https://dl.acm.org/citation.cfm?id=226934
+	Towards the Digital Music Library: Tune Retrieval from Acoustic Input
